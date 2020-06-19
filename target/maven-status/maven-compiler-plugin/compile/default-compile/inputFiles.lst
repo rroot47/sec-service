@@ -1,0 +1,13 @@
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/sec/JWTAuthorizationFilter.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/web/UserController.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/sec/SecurityConfig.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/service/AccountServiceImpl.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/sec/UserDetailsServiceImpl.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/entities/AppUser.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/dao/AppRoleRepository.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/service/AccountService.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/sec/Securityparams.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/entities/AppRole.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/SecServiceApplication.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/sec/JWTAuthenticationFilter.java
+/home/rroot/IdeaProjects/sec-service/src/main/java/org/sid/dao/AppUserRepository.java
